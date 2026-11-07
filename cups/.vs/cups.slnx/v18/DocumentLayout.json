@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\cups\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Sales task 3.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Sales task 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Sales task 2.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Sales task 3.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Sales task 1.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Product Dim 1.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Salesman Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Salesman Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Product Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Customer Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Customer Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Time Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Time Dim 2.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|C:\\Users\\USER\\source\\repos\\cups\\cups\\Channel Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{8279B07B-8127-0BE2-9A8A-A4271AED52EE}|cups\\cups.dwproj|solutionrelative:cups\\Channel Dim.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 405,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales task 1.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.dsv",
+              "RelativeDocumentMoniker": "cups\\Sales task 1.dsv",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.dsv [Design]",
+              "RelativeToolTip": "cups\\Sales task 1.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-07T20:05:12.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product Dim 1.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 1.dim",
+              "RelativeDocumentMoniker": "cups\\Product Dim 1.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 1.dim [Design]",
+              "RelativeToolTip": "cups\\Product Dim 1.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-07T20:05:08.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales task 3.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.cube",
+              "RelativeDocumentMoniker": "cups\\Sales task 3.cube",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.cube [Design]",
+              "RelativeToolTip": "cups\\Sales task 3.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:19:51.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales task 3.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.dsv",
+              "RelativeDocumentMoniker": "cups\\Sales task 3.dsv",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 3.dsv [Design]",
+              "RelativeToolTip": "cups\\Sales task 3.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:28:14.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Time Dim 2.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Time Dim 2.dim",
+              "RelativeDocumentMoniker": "cups\\Time Dim 2.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Time Dim 2.dim [Design]",
+              "RelativeToolTip": "cups\\Time Dim 2.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:24:22.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salesman Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Salesman Dim.dim",
+              "RelativeDocumentMoniker": "cups\\Salesman Dim.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Salesman Dim.dim [Design]",
+              "RelativeToolTip": "cups\\Salesman Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:24:17.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product Dim 2.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 2.dim",
+              "RelativeDocumentMoniker": "cups\\Product Dim 2.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Product Dim 2.dim [Design]",
+              "RelativeToolTip": "cups\\Product Dim 2.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:24:11.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Channel Dim.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Channel Dim.dim",
+              "RelativeDocumentMoniker": "cups\\Channel Dim.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Channel Dim.dim [Design]",
+              "RelativeToolTip": "cups\\Channel Dim.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:24:03.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer Dim 2.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Customer Dim 2.dim",
+              "RelativeDocumentMoniker": "cups\\Customer Dim 2.dim",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Customer Dim 2.dim [Design]",
+              "RelativeToolTip": "cups\\Customer Dim 2.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:23:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales task 2.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 2.cube",
+              "RelativeDocumentMoniker": "cups\\Sales task 2.cube",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 2.cube [Design]",
+              "RelativeToolTip": "cups\\Sales task 2.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T15:03:43.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales task 1.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.cube",
+              "RelativeDocumentMoniker": "cups\\Sales task 1.cube",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\cups\\cups\\Sales task 1.cube [Design]",
+              "RelativeToolTip": "cups\\Sales task 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-12T14:50:32.516Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

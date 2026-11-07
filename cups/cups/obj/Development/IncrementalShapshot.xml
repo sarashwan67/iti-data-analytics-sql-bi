@@ -1,0 +1,152 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>cups</Database>
+    <Server>localhost\myserver</Server>
+    <ConnectionString>Data Source=localhost\myserver;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>a1XY0+pWG0HAKKdgcCKk0XaV6pg=01/04/48 05:45:12 م01/04/48 05:45:12 م</TimeStamp>
+        <ID>
+          <String>Sales</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>zvdB7mV3gR41tuT3r3wfPSVvcIU=01/04/48 05:49:58 م01/04/48 05:49:58 م</TimeStamp>
+        <ID>
+          <String>Sales task 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>GqFecA0j0k8PrJMhtoU5xG7nXoc=01/04/48 05:52:07 م01/04/48 05:52:07 م</TimeStamp>
+        <ID>
+          <String>Sales task 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>OwEiol+gVOge/pFihARi4Xu0Jh8=01/04/48 06:19:18 م01/04/48 06:19:18 م</TimeStamp>
+        <ID>
+          <String>Sales task 3</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>xoTQgXFTS/x3K5Se0CrefC1O2yU=01/04/48 05:50:32 م01/04/48 05:50:32 م</TimeStamp>
+        <ID>
+          <String>Time Dim</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zPLW7xTcvEiQW77hhxemhBiFSyU=01/04/48 05:50:32 م01/04/48 05:50:32 م</TimeStamp>
+        <ID>
+          <String>Product Dim</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>DMQY9ij0gATwa2LJ8zKs9RI1mIQ=01/04/48 06:09:35 م01/04/48 05:59:28 م</TimeStamp>
+        <ID>
+          <String>Customer Dim</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>9I7/HCVpQWseWdClkgi/qlBkuwI=01/04/48 06:09:35 م01/04/48 05:59:28 م</TimeStamp>
+        <ID>
+          <String>Product Dim 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/bQMPCAven7J6oh7lt9gV+fYoKE=01/04/48 06:09:35 م01/04/48 05:59:28 م</TimeStamp>
+        <ID>
+          <String>Time Dim 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>FF3HLgG/0mYm4bceLwhHRvkfK2g=01/04/48 06:26:32 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Customer Dim 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>6qVxNgv+FC7WIkIP1uwdjQDP5ms=01/04/48 06:26:32 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Channel Dim</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>OIbH4iiNZpWZdTuIGnxzmegusn8=01/04/48 06:26:32 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Product Dim 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>7YwzRZGxQErL/rrvcx1xTz2ATLE=01/04/48 06:26:32 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Salesman Dim</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>bfnVbYfeUqzdYKaa+N09djozrJ8=01/04/48 06:26:32 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Time Dim 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>jZPqPfaUHGPuyeWc6d68i41EU6U=01/04/48 05:50:32 م01/04/48 05:50:32 مh6eXoaC69SVqoczPOAyWphSAJN8=01/04/48 05:50:32 م01/04/48 05:50:32 م</TimeStamp>
+        <ID>
+          <String>Sales task 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>oY5pWTEodfhqSvqU843YYz6LxUU=01/04/48 06:09:35 م01/04/48 05:59:28 مnSXf0UE8hhZVTBBp3GwVpPtNyqg=01/04/48 05:59:28 م01/04/48 05:59:28 م</TimeStamp>
+        <ID>
+          <String>Sales task 2</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ei+054fPAwRUP2e9kwfsF2QYGvE=01/04/48 06:27:04 م01/04/48 06:19:51 مDSdQFoctLwRLoLbPuLcLm54phck=01/04/48 06:27:04 م01/04/48 06:19:51 م</TimeStamp>
+        <ID>
+          <String>Sales task 3</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>n6MTs4TYfBJXEQFlmJ3g3CPcdw8=01/04/48 05:44:50 م01/04/48 05:44:50 م</TimeStamp>
+      <ID>
+        <String>cups</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2026-09-12T18:15:17.14Z</LastDeployed>
+</DeploymentSnapshot>
