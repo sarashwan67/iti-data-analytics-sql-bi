@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+**/.vs/
+*.suo
+*.user
+*.rsuser
+DocumentLayout.json
+DocumentLayout.backup.json
+
+# Build files
+bin/
+obj/
+**/bin/
+**/obj/
+
+# SSRS cached data
+*.rdl.data
+
+# Temporary files
+*.vsidx
+*.backup
